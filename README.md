@@ -6,8 +6,8 @@ Strešno okno: Dvosmerni cilinder odpira ali zapira okno (vrtenje motorja naprej
 
 
 **AVTORJI:**
-Tian Košir
-Nik Šerak
+Tian Košir <br />
+Nik Šerak <br />
 
 
 **KOSOVNICA:**
