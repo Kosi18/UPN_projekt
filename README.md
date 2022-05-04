@@ -23,10 +23,10 @@ Strešno okno: Dvosmerni cilinder odpira ali zapira okno (vrtenje motorja naprej
 
 **PRIREDBENI SEZNAM:**
 -
-| First Hea  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| First Header  | Second Header | First Header  | Second Header |
+| ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 
 **BREADBOARD:**
