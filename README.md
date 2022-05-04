@@ -41,3 +41,8 @@ Strešno okno: Dvosmerni cilinder odpira ali zapira okno (vrtenje motorja naprej
 
 **SHEMA:**
 -
+
+
+**KOMENTAR:**
+-
+Naloga se nama je zdela v redu, naučila sva se izdelovati repozitorij na GITHUB-u in ga tudi dobro urediti. Za izdelovanje vezave nama je prišlo prav znanje iz preteklih vaj.
