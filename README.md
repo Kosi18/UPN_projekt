@@ -16,8 +16,13 @@ Strešno okno: Dvosmerni cilinder odpira ali zapira okno (vrtenje motorja naprej
 
 **KOSOVNICA:**
 -
+- Arduino UNO
+- tipke 6X
+- LED dioda 3X
+- upor 1K 9X
 
-
+**PRIREDBENI SEZNAM:**
+-
 
 **BREADBOARD:**
 -
