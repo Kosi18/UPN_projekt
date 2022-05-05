@@ -33,9 +33,9 @@ Strešno okno: Dvosmerni cilinder odpira ali zapira okno (vrtenje motorja naprej
 **IZHODI:**
 | Oznaka v načrtu | Naslov operanda | Aktiven pri  | Pomen |
 | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| MOTOR  | Y0  | 1  | motor odpira okno  |
+| MOTOR  | Y1  | 1  | motor zapira okno  |
+
 
 **BREADBOARD:**
 -
