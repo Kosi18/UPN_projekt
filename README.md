@@ -26,9 +26,12 @@ Strešno okno: Dvosmerni cilinder odpira ali zapira okno (vrtenje motorja naprej
 **VHODI:**
 | Oznaka v načrtu  | Naslov operanda | Vrsta kontakta  | Pomen |
 | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| odpre  | X0| NO  | okno se odpira  |
+| zapre  | X1| NO   | okno s zapira  |
+| polovica  | X2  | NO    | okno se odpre do polovice  |
+| senzor odprt  | X3 | NO    | okno je odprto  |
+| senzor zaprt  | X4  | NO    | okno je zaprto  |
+| senzor polovica  | X5  | NO    | okno je odprto do polovice  |
 
 **IZHODI:**
 | Oznaka v načrtu | Naslov operanda | Aktiven pri  | Pomen |
