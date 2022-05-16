@@ -11,6 +11,8 @@ Strešno okno: Dvosmerni cilinder odpira ali zapira okno (vrtenje motorja naprej
 
 **SLIKA:**
 -
+![upn_arduino](https://user-images.githubusercontent.com/81773870/168566014-0947f9c1-e8e5-4175-a556-dc3c78b3b1c1.jpeg)
+
 
 **VIDEO:**
 -
