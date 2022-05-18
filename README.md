@@ -45,7 +45,7 @@ Strešno okno: Dvosmerni cilinder odpira ali zapira okno (vrtenje motorja naprej
 | ------------- | ------------- | ------------- | ------------- |
 | MOTOR  | Y0  | 1  | motor odpira okno  |
 | MOTOR  | Y1  | 1  | motor zapira okno  |
-| MOTOR  | Y2  | 1  | okno je odprto  |
+| LED  | Y2  | 1  | okno je odprto  |
 
 
 **BREADBOARD:**
