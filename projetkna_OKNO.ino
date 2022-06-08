@@ -22,11 +22,10 @@ void setup() {
 }
 void loop() {
    
-  //če je pritisnjena odpiranje sveti LED-zelena, če pritisnemo senzor odprt se led ugasne
-  if(digitalRead(odpiranje)==1){
+  //če je pritisnjena odpiranje sveti LED-rdeča, če pritisnemo senzor odprt se led ugasne
       digitalWrite(LED,1);
-      }
-  if(digitalRead(senzorO)==1){
+      
+  if(digitalRead(odpiranje)==1){
       digitalWrite(LED,0);
       }
       
@@ -38,7 +37,7 @@ void loop() {
       digitalWrite(LED2,0);
       }
 
-  //če je pritisnjen polovica sveti LED3-rumena, če pritisnemo senzor polovica se led ugasne
+  //če je pritisnjen polovica sveti LED3-zelena, če pritisnemo senzor polovica se led ugasne
   if(digitalRead(polovica)==1){
       digitalWrite(LED3,1);
       }
